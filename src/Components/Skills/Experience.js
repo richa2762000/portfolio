@@ -2,8 +2,8 @@
 const Experience = () => {
   return (
     <>
-      <h1 className="text-center text-3xl font-bold mb-6">Work Experience</h1>
-      <div className="mx-auto w-full sm:w-3/4 md:w-1/2 lg:w-1/2 xl:w-1/2 p-6 md:p-8 border rounded-md shadow-md bg-gradient-to-r from-gray-800 to-gray-900 hover:shadow-lg transform hover:scale-105 transition duration-300 ease-in-out">
+      <h1 className="text-center text-3xl font-bold mb-6 ">Work Experience</h1>
+      <div className="m-auto w-full sm:w-3/4 md:w-1/2 lg:w-1/2 xl:w-1/2  p-6 md:p-8 border rounded-md shadow-md bg-gradient-to-r from-gray-800 to-gray-900 hover:shadow-lg transform hover:scale-105 transition duration-300 ease-in-out">
         <p className="font-bold text-xl mb-2 text-white">Associate Software Engineer</p>
         <p className="text-gray-300 mb-2">March 7, 2022 - Present</p>
         <p className="text-gray-300 mb-4">Decimal Technology Private Limited - Gurgaon</p>

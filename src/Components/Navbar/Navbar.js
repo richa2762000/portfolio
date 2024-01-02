@@ -14,8 +14,8 @@ const Navbar = () => {
         <NavLink to="/">
           <h1 className="bg-gradient-to-r from-green-400 to-blue-500 hover:from-pink-500 hover:to-yellow-500 rounded-lg text-transparent bg-clip-text text-2xl font-sofia">My Portfolio</h1>
         </NavLink>
-
-        <button className="block sm:hidden text-white" onClick={toggleMobileMenu}>
+<div>
+        <button className="block  sm:hidden text-white" onClick={toggleMobileMenu}>
           <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M4 6h16M4 12h16m-7 6h7"></path>
           </svg>
@@ -60,6 +60,7 @@ const Navbar = () => {
             </NavLink>
           </div>
         )}
+        </div>
       </nav>
     </div>
   );
