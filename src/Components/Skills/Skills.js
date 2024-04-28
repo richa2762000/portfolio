@@ -5,10 +5,10 @@ import Experience from "./Experience.js";
 const Skills = () => {
   return (
     <section className="py-12 bg-indigo-950 text-white">
-      <div className="container mt-8">
+      <div className="container mt-8  max-w-full">
         <Experience />
       </div>
-      <div className="container mx-auto mt-3">
+      <div className="container mx-auto mt-6">
         <h1 className="text-4xl font-bold text-center mb-8">My Skills</h1>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
           {SkillData.map((data, index) => (
