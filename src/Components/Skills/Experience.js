@@ -16,7 +16,7 @@ const Experience = () => {
         <ul className="list-disc pl-6 text-gray-300">
           <li>
             Worked with PWC Global on the TATAAIA project, where I designed
-            certain features to make buying policies easier.Constructing
+            certain features to make buying policies easier. Constructing
             essential front-end elements and evaluating the policies.
           </li>
           <li>
@@ -25,22 +25,25 @@ const Experience = () => {
           </li>
           <li>
             Collaborated with the team to design and implement user interfaces
-            that adapt seamlessly to various devices and screen sizes.Utilized
+            that adapt seamlessly to various devices and screen sizes. Utilized
             React components to efficiently fetch and display data from the API,
             enhancing the user experience.
           </li>
           <li>
             Implement the web application using frontend technologies along with
-            Html5, Css, JavaScript, React.js, Bootstrap, Angular.Involved in
-            developing applications using React.js, Bootstrap like GridGrids,
-            Buttons etc.Incorporated router for application.
+            HTML5, CSS, JavaScript, React.js, Bootstrap, and Angular. Involved
+            in developing applications using React.js, and Bootstrap like Grid,
+            Buttons etc. Incorporated router for application.
           </li>
           <li>
-            We've developed a tool that empowers users to create websites
-            effortlessly. My responsibilities involve debugging the tool to
-            address any user-reported issues, as well as implementing
-            enhancements and integrating additional features to optimize its
-            functionality.
+            Worked on a product that enables effortless website creation for
+            users. Debugged the tool to address user- reported issues.
+            Implemented enhancements and integrated additional features to
+            optimize functionality.
+          </li>
+          <li>
+            Analyzed product requirements and facilitated the exchange of
+            insights to continuously improve the product.
           </li>
         </ul>
       </div>
