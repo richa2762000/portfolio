@@ -11,11 +11,12 @@ const Lending = () => {
           <h1 className="absolute top-1/2 text-3xl sm:relative sm:top-0 sm:animate-slideRight sm:text-4xl md:text-6xl lg:text-7xl xl:text-8xl text-center sm:text-left px-4">
             Richa Chachan
           </h1>
+          {/* The image will be hidden on screens larger than 'sm' */}
           <img
             src="https://cdn.pixabay.com/photo/2020/02/19/07/48/web-4861605_1280.jpg"
             alt="loading"
-            className="w-full h-full opacity-15 sm:opacity-100 sm:rotate-45 sm:w-60 sm:h-1/2 sm:animate-imgLeft"
-          ></img>
+            className="block sm:hidden w-full h-full opacity-15"
+          />
         </div>
       </div>
       <About />
