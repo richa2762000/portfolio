@@ -8,7 +8,7 @@ const About = () => {
           What I Do
         </h4>
         <p className="text-center text-gray-300 max-w-2xl mx-auto">
-          I’m an experienced web developer with over 2+ years of hands-on
+          I’m an experienced web developer with around 3 years of hands-on
           experience and a strong focus on the frontend. Expertise in developing
           responsive and visually appealing user interfaces. Strong
           problem-solving skills and a desire to keep up with the latest web
