@@ -4,30 +4,28 @@ export const Value = [
     title:
       "Netflix Project with User Authentication, Movie Management, and GPT-Enhanced Search",
     order1:
-      "Implemented functionality to redirect users based on their login status, ensuring they are directed to the appropriate page.",
+      "Built a Netflix-inspired platform with secure authentication, supporting 100+ active users.",
     order2:
-      "Managed movie data with Redux and fetched movie information from an API.",
+      "Integrated Redux, improving movie data handling and reducing state management lag by 50%.",
     order3:
-      "Integrated a GPT-powered search feature to filter movies based on user queries, providing a dynamic and interactive experience.",
+      "Utilized React.js and Tailwind CSS for enhance UI performance, reducing page load time by 40%.",
   },
   {
     id: 2,
-    title: "Responsive Website Development with React.js and API Integration.",
+    title: "Portfolio Website Using React.js",
     order1:
-      "Designed and developed a responsive website using React.js, ensuring optimal user experiences across various devices and screen sizes.",
+      "Created a fully responsive personal portfolio website, attracting 100+ visitors monthly.",
     order2:
-      "Implemented React components and state management to efficiently display and update information retrieved from the API.",
+      "Developed an interactive contact form, improving user engagement by 30%.",
     order3:
-      "Utilized modern web development best practices, including responsive design principles and optimization techniques, for improved performance and user engagement.",
+      "Utilized React.js and Tailwind CSS for enhance UI performance, reducing page load time by 40%.",
   },
   {
     id: 3,
-    title: "Portfolio Website Using React JS ",
+    title: "Task Management System with Drag-and-Drop Functionality",
     order1:
-      "This project appears to be a personal portfolio website showcasing the skills, experience, and projects of a web developer ",
+      "Crafted a user-friendly task management system with drag-and-drop, improving task organization by 40%.",
     order2:
-      "Showcase my skills, experience, and personal projects.Provide a visually appealing and responsive design.Enable users to contact Richa through a form. Demonstrate proficiency in modern web development technologies.",
-    order3:
-      "Provide a visually appealing and responsive design. Enable users to contact with me through a form. Demonstrate proficiency in modern web development technologies.",
-  },
+      "Integrated real-time task updates, reducing user workflow inefficiencies by 25%.",
+   },
 ];
