@@ -15,35 +15,57 @@ const Experience = () => {
         <h2 className="text-xl font-bold mb-2 text-white">Responsibilities</h2>
         <ul className="list-disc pl-6 text-gray-300">
           <li>
-            Worked with PWC Global on the TATAAIA project, where I designed
-            certain features to make buying policies easier. Constructing
-            essential front-end elements and evaluating the policies.
+            <b> Streamlined User Journeys</b>: Collaborated on the TATAAIA
+            project with PWC Global, streamlining the policy-buying process by
+            designing intuitive front-end features, reducing user processing
+            time by 30%.
           </li>
           <li>
-            Developed a responsive website using React.js and integrated it with
-            external APIs to provide dynamic content.
+            <b> In-House Product Development</b>: Engineered and optimized a
+            website-building platform, enabling 1,000+ users to create and
+            customize their own websites. Refined API integrations, reducing
+            load time by 40%, and introduced key upgrades that increased
+            platform stability by 30%.
           </li>
           <li>
-            Collaborated with the team to design and implement user interfaces
-            that adapt seamlessly to various devices and screen sizes. Utilized
-            React components to efficiently fetch and display data from the API,
-            enhancing the user experience.
+            <b> Customization Tools</b>: Introduced a drag-and-drop UI builder,
+            increasing user interaction by 35%, and re- ducing development time
+            for new components by 50%.
           </li>
           <li>
-            Implement the web application using frontend technologies along with
-            HTML5, CSS, JavaScript, React.js, Bootstrap, and Angular. Involved
-            in developing applications using React.js, and Bootstrap like Grid,
-            Buttons etc. Incorporated router for application.
+            <b>Usability and Collaboration</b>: Conceptualized website-building
+            platform improvements by analyzing user stories and collaborating
+            with cross-functional teams, delivering high-impact features that
+            elevated overall user satisfaction scores by 40%.
           </li>
           <li>
-            Worked on a product that enables effortless website creation for
-            users. Debugged the tool to address user- reported issues.
-            Implemented enhancements and integrated additional features to
-            optimize functionality.
+            <b> Integrated Advanced Libraries</b>: Enhanced code-editor and
+            monaco-editor integration, decreasing com- pile errors by 20%,
+            leading to a smoother developer experience.
           </li>
           <li>
-            Analyzed product requirements and facilitated the exchange of
-            insights to continuously improve the product.
+            <b> User Interaction </b>: Integrated drag-and-drop functionality
+            using react-beautiful-dnd, improving workflow efficiency by 25%, and
+            Leveraged Chart.js for real-time data visualization, enhancing data
+            comprehension.
+          </li>
+          <li>
+            <b> Debugged and Optimized </b>: Resolved 100+ user-reported issues,
+            reducing system crashes by 35% and increasing application
+            performance.
+          </li>
+          <li>
+            <b>Built Scalable Web Applications </b>: Architected and deployed
+            scalable web applications using React.js, op- timizing API
+            integration for efficient data retrieval and real-time updates.
+            Improved performance and user experience through structured state
+            management and responsive UI design.
+          </li>
+          <li>
+            <b>Cross-Team Collaboration </b>: Created responsive and adaptive
+            interfaces for mobile and desktop plat- forms, leading to a 20%
+            increase in user retention and a 15% improvement in accessibility
+            compliance.
           </li>
         </ul>
       </div>
